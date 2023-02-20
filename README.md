@@ -9,12 +9,12 @@ Uso educacional da API que consta com apenas create e read para renderizações 
 
 ## Tecnologias
 
-Next.js </ br>
-Prisma </ br>
-Postgres </ br>
-Typescript </ br>
-SQL </ br>
-Heroku </ br>
+Next.js </br>
+Prisma </br>
+Postgres </br>
+Typescript </br>
+SQL </br>
+Heroku </br>
 
 
 ## Deploy no Heroku [PRIVADO]
